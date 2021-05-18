@@ -1,13 +1,13 @@
 ---
 banner:
-  title: Custom machine learning and big data solutions.
+  title: Custom machine learning </br> and big data solutions.
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: We’re builders. We'll work with you to develop the right solution for your
+    needs by providing strategy, architecture, and cost recommendations. Once we have
+    a plan finalized, we'll handle the implementation and deployment.
   button:
     enable: true
-    label: Contact With Us
+    label: Build With Us
     link: contact
 feature:
   enable: true
